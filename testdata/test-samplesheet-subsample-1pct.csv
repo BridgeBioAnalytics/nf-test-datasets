@@ -1,2 +1,2 @@
 sample,bam,strandedness
-2021-scAAV-CBA-eGFP,/home/ec2-user/nf-core-aav/work/stage-b194654f-b91d-451c-91a6-6408364ff200/bd/3b59c3dc877a18b3d30fa43febf61a/scAAV_CBA_eGFP_recalled_retry.hifi_reads.subsample_1pct.bam,single
+2021-scAAV-CBA-eGFP,https://github.com/BridgeBioAnalytics/nf-test-datasets/raw/aav/testdata/scAAV_CBA_eGFP_recalled_retry.hifi_reads.subsample_1pct.bam,single
